@@ -2,7 +2,7 @@ import React from "react";
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithubSquare } from "react-icons/fa";
 import { BiLogoFacebookSquare } from "react-icons/bi";
-import { Zoom, Fade, Flip, Bounce, Roll } from "react-reveal";
+import { Roll } from "react-reveal";
 
 const HeaderSocials = () => {
   return (

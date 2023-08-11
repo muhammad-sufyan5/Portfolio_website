@@ -2,11 +2,11 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/p1.png";
 import IMG2 from "../../assets/p2.png";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
-import { Zoom, Fade, Flip, Bounce, Roll } from "react-reveal";
+import IMG3 from "../../assets/p3.png";
+import IMG4 from "../../assets/p4.png";
+import IMG5 from "../../assets/p5.png";
+import IMG6 from "../../assets/p6.png";
+import { Zoom, Bounce } from "react-reveal";
 const data = [
   {
     id: 1,
