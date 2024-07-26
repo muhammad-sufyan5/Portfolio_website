@@ -11,7 +11,7 @@ const header = () => {
         <Zoom duration={1800}>
         <h5>Hello I'm</h5>
         <h1>Muhammad Sufyan</h1>
-        <h5 className="text-light">Front-End Developer</h5>
+        <h5 className="text-light">Back-End Developer</h5>
         </Zoom>
         <CTA/>
         <HeaderSocials/>

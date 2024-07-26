@@ -28,7 +28,7 @@ const experience = () => {
                 <BsPatchCheckFill className="experience__details-icon" />
                 <div>
                   <h4>CSS</h4>
-                  <small className="text-light">Intermediate</small>
+                  <small className="text-light">Experienced</small>
                 </div>
               </article>
               <article className="experience__details">
@@ -48,7 +48,14 @@ const experience = () => {
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon" />
                 <div>
-                  <h4>ReactJs</h4>
+                  <h4>VueJs</h4>
+                  <small className="text-light">Intermediate</small>
+                </div>
+              </article>
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon" />
+                <div>
+                  <h4>JQuery</h4>
                   <small className="text-light">Intermediate</small>
                 </div>
               </article>
@@ -67,43 +74,43 @@ const experience = () => {
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon" />
                 <div>
-                  <h4>MongoDB</h4>
+                  <h4>MySql</h4>
                   <small className="text-light">Intermediate</small>
                 </div>
               </article>
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon" />
                 <div>
-                  <h4>NodeJs</h4>
-                  <small className="text-light">Intermediate</small>
-                </div>
-              </article>
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon" />
-                <div>
-                  <h4>ExpressJs</h4>
-                  <small className="text-light">Intermediate</small>
-                </div>
-              </article>
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon" />
-                <div>
-                  <h4>Express Validator</h4>
-                  <small className="text-light">Intermediate</small>
-                </div>
-              </article>
-              <article className="experience__details">
-                <BsPatchCheckFill className="experience__details-icon" />
-                <div>
-                  <h4>Mongoose</h4>
+                  <h4>Laravel</h4>
                   <small className="text-light">Experienced</small>
                 </div>
               </article>
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon" />
                 <div>
-                  <h4>bcrypt</h4>
+                  <h4>Laravel Authentication</h4>
                   <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon" />
+                <div>
+                  <h4>PHP</h4>
+                  <small className="text-light">Intermediate</small>
+                </div>
+              </article>
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon" />
+                <div>
+                  <h4>RESTful API Development</h4>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon" />
+                <div>
+                  <h4>Event Broadcasting</h4>
+                  <small className="text-light">Intermediate</small>
                 </div>
               </article>
             </Bounce>
