@@ -1,8 +1,8 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio7.png";
+import IMG1 from "../../assets/portfolio12.png";
 import IMG2 from "../../assets/portfolio8.png";
-import IMG3 from "../../assets/portfolio9.png";
+import IMG3 from "../../assets/portfolio1.jpg";
 import IMG4 from "../../assets/p4.jpeg";
 import IMG5 from "../../assets/p5.png";
 import IMG6 from "../../assets/p6.png";
@@ -15,25 +15,25 @@ const data = [
   {
     id: 7,
     image: IMG1,
-    title: "Wriko People (HR Management System)",
+    title: "Paragon Square (E-commerce + Services site)",
     github: "https://bitbucket.org/bloom-rix/construction-site/src/master/",
-    demo: "https://people.wriko.staginghosts.com/crafted/pages/profile/overview",
+    demo: "https://paragonsquare.ai/login",
   },
   {
     id: 8,
     image: IMG2,
-    title: "Wriko Office (Admin Management SystemS)",
+    title: "Print Village (Commercial Printing Site)",
     github:
       "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/SellnBuy(E_Commerce%20Project)",
-    demo: "https://wrikooffice.staginghosts.com/categories/categories-list",
+    demo: "https://printvillage.co.uk/",
   },
   {
     id: 9,
     image: IMG3,
-    title: "Wriko Calender (Event Management System)",
+    title: "Admin Management System",
     github:
       "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/Project5(Pig%20Game)",
-    demo: "https://calendar.wriko.staginghosts.com/auth/login",
+    demo: "https://themeforest.net/category/site-templates/admin-templates",
   },
   {
     id: 4,
