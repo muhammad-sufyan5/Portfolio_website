@@ -1,40 +1,44 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/p1.png";
-import IMG2 from "../../assets/p2.png";
-import IMG3 from "../../assets/p3.png";
-import IMG4 from "../../assets/p4.png";
+import IMG1 from "../../assets/portfolio7.png";
+import IMG2 from "../../assets/portfolio8.png";
+import IMG3 from "../../assets/portfolio9.png";
+import IMG4 from "../../assets/p4.jpeg";
 import IMG5 from "../../assets/p5.png";
 import IMG6 from "../../assets/p6.png";
+import IMG7 from "../../assets/p1.png";
+import IMG8 from "../../assets/p2.jpg";
+import IMG9 from "../../assets/p3.png";
+
 import { Zoom, Bounce } from "react-reveal";
 const data = [
   {
-    id: 1,
+    id: 7,
     image: IMG1,
-    title: "Moco Builders Site (UI/UX Design)",
+    title: "Wriko People (HR Management System)",
     github: "https://bitbucket.org/bloom-rix/construction-site/src/master/",
-    demo: "https://64a7e1d511c85156be1ecd08--classy-monstera-8f5c21.netlify.app/",
+    demo: "https://people.wriko.staginghosts.com/crafted/pages/profile/overview",
   },
   {
-    id: 2,
+    id: 8,
     image: IMG2,
-    title: "SellnBuy E-Commerce Webstore",
+    title: "Wriko Office (Admin Management SystemS)",
     github:
       "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/SellnBuy(E_Commerce%20Project)",
-    demo: "https://64a7e1d511c85156be1ecd08--classy-monstera-8f5c21.netlify.app/",
+    demo: "https://wrikooffice.staginghosts.com/categories/categories-list",
   },
   {
-    id: 3,
+    id: 9,
     image: IMG3,
-    title: "A Pig Game (Fun Site)",
+    title: "Wriko Calender (Event Management System)",
     github:
       "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/Project5(Pig%20Game)",
-    demo: "https://64c556376d214d0e6ebe1ddb--unique-concha-bf3e4c.netlify.app/",
+    demo: "https://calendar.wriko.staginghosts.com/auth/login",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Favorite Universities web App",
+    title: "Favourite Universities web Application",
     github:
       "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/University",
     demo: "https://uni-app-green.vercel.app/",
@@ -55,6 +59,30 @@ const data = [
       "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/Project3(Guess%20my%20number)",
     demo: "https://64c55b194de7b110f65193b4--helpful-cactus-08c805.netlify.app/",
   },
+  {
+    id: 1,
+    image: IMG7,
+    title: "Moco Builders Site (UI/UX Design)",
+    github:
+      "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/Project3(Guess%20my%20number)",
+    demo: "https://64c55b194de7b110f65193b4--helpful-cactus-08c805.netlify.app/",
+  },
+  {
+    id: 2,
+    image: IMG8,
+    title: "SellnBuy E-Commerce Webstore",
+    github:
+      "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/Project3(Guess%20my%20number)",
+    demo: "https://64c55b194de7b110f65193b4--helpful-cactus-08c805.netlify.app/",
+  },
+  {
+    id: 3,
+    image: IMG9,
+    title: "A Pig Game (Fun Site)",
+    github:
+      "https://github.com/muhammad-sufyan5/Mern_Stack/tree/main/Project3(Guess%20my%20number)",
+    demo: "https://64c55b194de7b110f65193b4--helpful-cactus-08c805.netlify.app/",
+  }
 ];
 const Portfolio = () => {
   return (

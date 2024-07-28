@@ -10,7 +10,7 @@ const footer = () => {
       <footer>
         <Flip duration={1800}>
           <a href="" className="footer__logo">
-            MS
+            Muhammad Sufyan
           </a>
         </Flip>
 

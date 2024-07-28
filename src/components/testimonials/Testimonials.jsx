@@ -19,30 +19,30 @@ const data = [
   {
     id: 1,
     image: AVTR1,
-    clientName: "Ernest Richest",
+    clientName: "Erica willson",
     clientReview:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit natus reprehenderit id. Nulla sapiente nam labore commodi impedit tempore, dolorum, ex ab et corrupti eaque voluptate asperiores. Temporibus, libero quaerat?",
+      "From the initial consultation to the final delivery, this Laravel developer displayed professionalism, skill, and dedication. They were able to understand our vision and transform it into a fully functional web application that meets our business needs. The after-service support has been exceptional, ensuring that our system runs smoothly. Highly recommended for any web development project.",
   },
   {
     id: 2,
     image: AVTR2,
-    clientName: "Ernest Richest",
+    clientName: "John William",
     clientReview:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit natus reprehenderit id. Nulla sapiente nam labore commodi impedit tempore, dolorum, ex ab et corrupti eaque voluptate asperiores. Temporibus, libero quaerat?",
+      "This Laravel developer has a great eye for detail and a deep knowledge of web development. The project was challenging, but they navigated through the complexities with ease and delivered a robust, scalable application. Their commitment to quality and customer satisfaction is commendable, making them a valuable asset to any team.",
   },
   {
     id: 3,
     image: AVTR3,
-    clientName: "Ernest Richest",
+    clientName: "Fawad Ahmad",
     clientReview:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit natus reprehenderit id. Nulla sapiente nam labore commodi impedit tempore, dolorum, ex ab et corrupti eaque voluptate asperiores. Temporibus, libero quaerat?",
+      "Working with this Laravel developer was a great experience. They demonstrated deep expertise and professionalism, delivering a high-quality solution that exceeded our expectations. The project was completed on time, and the communication throughout the process was excellent. I highly recommend their services for any web development needs.",
   },
   {
     id: 4,
     image: AVTR4,
-    clientName: "Ernest Richest",
+    clientName: "Shiza Riaz",
     clientReview:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit natus reprehenderit id. Nulla sapiente nam labore commodi impedit tempore, dolorum, ex ab et corrupti eaque voluptate asperiores. Temporibus, libero quaerat?",
+      "The developer showed a strong understanding of our requirements and delivered a seamless and efficient Laravel application. They were responsive to our feedback and provided valuable insights that improved the overall outcome. We are extremely satisfied with the results and look forward to collaborating on future projects.",
   },
 ];
 const Testimonials = () => {
