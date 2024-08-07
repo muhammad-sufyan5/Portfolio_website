@@ -7,7 +7,7 @@ import { useRef } from "react";
 import emailjs from "emailjs-com";
 import { Zoom, Fade, Flip, Bounce, Roll } from "react-reveal";
 const Contact = () => {
-  const form = useRef();
+  const form = useRef(null);
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -15,7 +15,7 @@ const Contact = () => {
     emailjs.sendForm(
       "service_hs8m5p3",
       "template_yhqksii",
-      form.current,
+      e.target,
       "esRxUXlFJljEGe881"
     );
     e.target.reset();
