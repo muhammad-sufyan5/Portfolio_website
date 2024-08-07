@@ -15,9 +15,9 @@ const data = [
   {
     id: 7,
     image: IMG1,
-    title: "Paragon Square (E-commerce + Services site)",
-    github: "https://bitbucket.org/bloom-rix/construction-site/src/master/",
-    demo: "https://paragonsquare.ai/login",
+    title: "Architorium (Services site architectural design)",
+    github: "https://github.com/muhammad-sufyan5",
+    demo: "https://www.architorium.co.uk/",
   },
   {
     id: 8,
